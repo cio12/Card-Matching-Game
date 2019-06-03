@@ -1,0 +1,233 @@
+Starting Game
+
+Starting Round 1
+
+DEALER: shuffle
+PLAYER 1: hand 6
+PLAYER 1: draws 6
+PLAYER 1: hand 6 6
+PLAYER 1: wins
+
+PLAYER 1: round completed
+PLAYER 3: round completed
+PLAYER 2: round completed
+
+Starting Round 2
+
+DEALER: shuffle
+PLAYER 2: hand 11
+PLAYER 2: draws 10
+PLAYER 2: hand 11 10
+PLAYER 2: discards 11
+
+PLAYER 3: hand 2
+PLAYER 3: draws 13
+PLAYER 3: hand 2 13
+PLAYER 3: discards 2
+
+PLAYER 1: hand 5
+PLAYER 1: draws 13
+PLAYER 1: hand 5 13
+PLAYER 1: discards 13
+
+PLAYER 2: hand 10
+PLAYER 2: draws 2
+PLAYER 2: hand 10 2
+PLAYER 2: discards 10
+
+PLAYER 3: hand 13
+PLAYER 3: draws 9
+PLAYER 3: hand 13 9
+PLAYER 3: discards 13
+
+PLAYER 1: hand 5
+PLAYER 1: draws 2
+PLAYER 1: hand 5 2
+PLAYER 1: discards 2
+
+PLAYER 2: hand 2
+PLAYER 2: draws 8
+PLAYER 2: hand 2 8
+PLAYER 2: discards 8
+
+PLAYER 3: hand 9
+PLAYER 3: draws 9
+PLAYER 3: hand 9 9
+PLAYER 3: wins
+
+PLAYER 3: round completed
+PLAYER 1: round completed
+PLAYER 2: round completed
+
+Starting Round 3
+
+DEALER: shuffle
+PLAYER 3: hand 12
+PLAYER 3: draws 4
+PLAYER 3: hand 12 4
+PLAYER 3: discards 12
+
+PLAYER 1: hand 4
+PLAYER 1: draws 6
+PLAYER 1: hand 4 6
+PLAYER 1: discards 4
+
+PLAYER 2: hand 11
+PLAYER 2: draws 2
+PLAYER 2: hand 11 2
+PLAYER 2: discards 2
+
+PLAYER 3: hand 4
+PLAYER 3: draws 7
+PLAYER 3: hand 4 7
+PLAYER 3: discards 7
+
+PLAYER 1: hand 6
+PLAYER 1: draws 7
+PLAYER 1: hand 6 7
+PLAYER 1: discards 6
+
+PLAYER 2: hand 11
+PLAYER 2: draws 4
+PLAYER 2: hand 11 4
+PLAYER 2: discards 4
+
+PLAYER 3: hand 4
+PLAYER 3: draws 10
+PLAYER 3: hand 4 10
+PLAYER 3: discards 10
+
+PLAYER 1: hand 7
+PLAYER 1: draws 9
+PLAYER 1: hand 7 9
+PLAYER 1: discards 7
+
+PLAYER 2: hand 11
+PLAYER 2: draws 3
+PLAYER 2: hand 11 3
+PLAYER 2: discards 3
+
+PLAYER 3: hand 4
+PLAYER 3: draws 7
+PLAYER 3: hand 4 7
+PLAYER 3: discards 4
+
+PLAYER 1: hand 9
+PLAYER 1: draws 11
+PLAYER 1: hand 9 11
+PLAYER 1: discards 9
+
+PLAYER 2: hand 11
+PLAYER 2: draws 9
+PLAYER 2: hand 11 9
+PLAYER 2: discards 11
+
+PLAYER 3: hand 7
+PLAYER 3: draws 13
+PLAYER 3: hand 7 13
+PLAYER 3: discards 13
+
+PLAYER 1: hand 11
+PLAYER 1: draws 10
+PLAYER 1: hand 11 10
+PLAYER 1: discards 10
+
+PLAYER 2: hand 9
+PLAYER 2: draws 11
+PLAYER 2: hand 9 11
+PLAYER 2: discards 9
+
+PLAYER 3: hand 7
+PLAYER 3: draws 1
+PLAYER 3: hand 7 1
+PLAYER 3: discards 1
+
+PLAYER 1: hand 11
+PLAYER 1: draws 8
+PLAYER 1: hand 11 8
+PLAYER 1: discards 8
+
+PLAYER 2: hand 11
+PLAYER 2: draws 2
+PLAYER 2: hand 11 2
+PLAYER 2: discards 2
+
+PLAYER 3: hand 7
+PLAYER 3: draws 8
+PLAYER 3: hand 7 8
+PLAYER 3: discards 8
+
+PLAYER 1: hand 11
+PLAYER 1: draws 1
+PLAYER 1: hand 11 1
+PLAYER 1: discards 1
+
+PLAYER 2: hand 11
+PLAYER 2: draws 6
+PLAYER 2: hand 11 6
+PLAYER 2: discards 6
+
+PLAYER 3: hand 7
+PLAYER 3: draws 1
+PLAYER 3: hand 7 1
+PLAYER 3: discards 7
+
+PLAYER 1: hand 11
+PLAYER 1: draws 5
+PLAYER 1: hand 11 5
+PLAYER 1: discards 11
+
+PLAYER 2: hand 11
+PLAYER 2: draws 9
+PLAYER 2: hand 11 9
+PLAYER 2: discards 11
+
+PLAYER 3: hand 1
+PLAYER 3: draws 7
+PLAYER 3: hand 1 7
+PLAYER 3: discards 7
+
+PLAYER 1: hand 5
+PLAYER 1: draws 13
+PLAYER 1: hand 5 13
+PLAYER 1: discards 13
+
+PLAYER 2: hand 9
+PLAYER 2: draws 13
+PLAYER 2: hand 9 13
+PLAYER 2: discards 13
+
+PLAYER 3: hand 1
+PLAYER 3: draws 12
+PLAYER 3: hand 1 12
+PLAYER 3: discards 12
+
+PLAYER 1: hand 5
+PLAYER 1: draws 2
+PLAYER 1: hand 5 2
+PLAYER 1: discards 5
+
+PLAYER 2: hand 9
+PLAYER 2: draws 5
+PLAYER 2: hand 9 5
+PLAYER 2: discards 9
+
+PLAYER 3: hand 1
+PLAYER 3: draws 8
+PLAYER 3: hand 1 8
+PLAYER 3: discards 8
+
+PLAYER 1: hand 2
+PLAYER 1: draws 11
+PLAYER 1: hand 2 11
+PLAYER 1: discards 11
+
+PLAYER 2: hand 5
+PLAYER 2: draws 5
+PLAYER 2: hand 5 5
+PLAYER 2: wins
+
+PLAYER 2: round completed
+PLAYER 3: round completed
+PLAYER 1: round completed
+Game Over

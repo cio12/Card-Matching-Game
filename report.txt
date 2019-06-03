@@ -1,0 +1,15 @@
+*** Card Game ***
+
+1.) The seed and the name of the log file are passed to the main function, the rand is seeded and the file is opened. 
+
+2.) In the run() function the deck is created and filled with the numbers 1-13 four times and the player hands are created and filled with zeros to indicate that they are empty. After that the game is run for the desired amount of rounds using the playRound() function.
+
+3.) In the playRound() function the dealer and player threads are created and joined together to run in synch.
+
+4.) The dealer thread shuffles the deck and deals one card to each hand and then signals the player threads that they are ready to start the round. Then it waits for the signal that the round is over from the player threads; when that signal occurs it exits the round.
+
+5.) The player threads wait for the signal that the round is ready to be played from the dealer and when they are signaled they take the appropriate hand and take turns accessing the deck depending on whose turn it is and what round it is.
+
+6.) the useDeck() function that all of the threads use is protected by a mutex to assure that only one thread uses it at a time.
+
+Note: The project deadlocks sometimes, and runs smoothly other times. 
