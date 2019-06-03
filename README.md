@@ -1,0 +1,2 @@
+# Card-Matching-Game
+This project was written for Professor Mina Guirguis' CS 4328 Operating Systems class at Texas State University. The project was written with my partners Zachary Golla and Elliot Esponda. The program creates three 4 threads that run in parallel, one dealer thread which deals cards and 3 player threads that draw cards and check for matching face value with the card in their hands.
